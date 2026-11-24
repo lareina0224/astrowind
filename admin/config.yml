@@ -2,7 +2,7 @@ backend:
   name: github
   repo: 你的github名字/astrowind
   branch: main
-  client_id: 这里等下填OAuth的ClientID
+  client_id: Ov23liI6zH1lr4q5lZEC
 media_folder: src/assets/images/uploads
 public_folder: /assets/images/uploads
 collections:
