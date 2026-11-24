@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: 你的github名字/astrowind
+  repo: lareina0224/astrowind
   branch: main
   client_id: Ov23liI6zH1lr4q5lZEC
 media_folder: src/assets/images/uploads
